@@ -24,6 +24,9 @@ Link do curso <a href="https://cursos.alura.com.br/course/pong-javascript/" targ
   <img width="800" height="600" src="pong.png">
 </p>
 
+## Certificado
+
+* Meu certificado [aqui](https://cursos.alura.com.br/certificate/fc68aecb-4b3c-4df7-a174-91713125304e).
 
 
 

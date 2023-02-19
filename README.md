@@ -1,7 +1,7 @@
 # Jogo Pong em JS - Curso Alura
 Recriação do famoso jogo Pong em JavaScript no curso Lógica de Programação da Alura
 
-No dia 19 de fevereiro de 2023, conclui o curso *Lógica de Programação: Comece em lógica com o jogo Pong e Javascript* da plataforma de cursos <a href="https://www.alura.com.br/" target="_blank">Alura</a>. No curso recriamos o famoso jogo Pong em JavaScript. Pong foi desenvolvido e publicado pela Atari em 1972.
+No dia 19 de fevereiro de 2023, conclui o curso *Lógica de Programação: Comece em lógica com o jogo Pong e Javascript* da plataforma de cursos <a href="https://www.alura.com.br/" target="_blank">Alura</a>. [Alura](https://www.alura.com.br/){target = "_blank"} No curso recriamos o famoso jogo Pong em JavaScript. Pong foi desenvolvido e publicado pela Atari em 1972.
 
 Link do curso <a href="https://cursos.alura.com.br/course/pong-javascript/" target="_blank">aqui</a>.
 

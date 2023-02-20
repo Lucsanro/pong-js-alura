@@ -16,9 +16,9 @@ Link do curso <a href="https://cursos.alura.com.br/course/pong-javascript/" targ
 
 ## Jogo
 
-* Para jogar contra a máquina clique <a href="https://editor.p5js.org/lucsanro/full/wF_Blme8L" target="_blank">aqui</a>.
+* Para jogar contra a máquina clique <a href="https://editor.p5js.org/lucsanro/full/wF_Blme8L" target="_blank">aqui</a>. Movimente sua raquete com as setas para CIMA e para BAIXO.
 
-* Para jogar multiplayer clique <a href="https://editor.p5js.org/lucsanro/full/TgoQhz7Fy" target="_blank">aqui</a>.
+* Para jogar multiplayer clique <a href="https://editor.p5js.org/lucsanro/full/TgoQhz7Fy" target="_blank">aqui</a>. Movimente a raquete da esquerda com as teclas W e S e a raquete da direita com as teclas para CIMA e para BAIXO.
 
 <p align = "center">
   <img width="800" height="600" src="pong.png">
